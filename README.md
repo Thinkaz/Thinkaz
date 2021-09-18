@@ -2,7 +2,7 @@
 
 I'm [Thinkaz](https://saw-react.netlify.app/) (17 y.o) ! :sunglasses:
 
-I am a front end developer :computer:
+I am a front-end developer trying to expand my knowledge :computer:
 
 I'm trying to expand to more practice :wink:
 
