@@ -3,6 +3,7 @@
 I'm [Thinkaz](https://saw-react.netlify.app/) (17 y.o) ! :sunglasses:
 
 I am a front end developer :computer:
+
 I'm trying to expand to more practice :wink:
 
 :page_with_curl: I'm currently learning:
