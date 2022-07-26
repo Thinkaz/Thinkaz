@@ -2,7 +2,7 @@
 
 
 
-[<img align="right" width="50%" src="(https://github-readme-stats.vercel.app/api?username=Thinkaz&show_icons=true&theme=dark&custom_title=My&layout=compact&langs_count=Deno.js)">](yup)
+[<img align="right" width="50%" src="(https://github-readme-stats.vercel.app/api?username=Thinkaz&show_icons=true&theme=dark&custom_title=My&layout=compact&langs_count=Deno.js)">]([yup](https://metrics.lecoq.io/Thinkaz)
 
 
 
