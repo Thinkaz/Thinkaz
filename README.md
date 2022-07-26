@@ -2,7 +2,7 @@
 
 
 
-![Thinaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkaz&show_icons=true&theme=dark&custom_title=My&layout=compact&langs_count=Deno.js)
+[<img align="right" width="50%"](https://github-readme-stats.vercel.app/api?username=Thinkaz&show_icons=true&theme=dark&custom_title=My&layout=compact&langs_count=Deno.js)
 
 
 
