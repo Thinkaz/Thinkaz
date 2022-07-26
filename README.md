@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/989090844411834388/1001611071704027256/igor-artyomenko-tbs-promo11.jpg" width="900" height="600"/>
+  <img src="https://cdn.discordapp.com/attachments/989090844411834388/1001611071704027256/igor-artyomenko-tbs-promo11.jpg" width="1200" height="600"/>
 </div>
 
 -   :hammer_and_pick: Next / React / JavaScript / Bun / Node / PHP
