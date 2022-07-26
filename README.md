@@ -6,11 +6,9 @@
 
 -   :pencil2: [VSCode](https://code.visualstudio.com/) / [Vim](https://www.vim.org/)
 
+-   😞 If you use light mode, you're insane
 
 ---
-
-
-
 
 Done recently: 🎉
   1. Nothing holidays baby 😎
