@@ -1,6 +1,6 @@
 ## Heyo there! 👋
 
-[<img align="right" width="50%" src="(https://github-readme-stats.vercel.app/api?username=Thinkaz&show_icons=true&theme=dark">](https://metrics.lecoq.io/Thinkaz)
+![<img align="right" width="50%" src="(https://github-readme-stats.vercel.app/api?username=Thinkaz&show_icons=true&theme=dark">](https://metrics.lecoq.io/Thinkaz)
 
 -   :hammer_and_pick: C++ / Qt / GitHub Actions / Python / TypeScript / Vue
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [yadm](https://github.com/TheLocehiliosan/yadm)
