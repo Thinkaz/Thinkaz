@@ -12,8 +12,6 @@
 ![Thinaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkaz&show_icons=true&theme=dark&custom_title=I'm+not+a+girl&layout=compact&langs_count=Deno.js)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkaz&show_icons=true&theme=dark&custom_title=My+Languages&layout=compact)
-
 <br><br>
-
 Done recently: 🎉
   1. Nothing holidays baby 😎
