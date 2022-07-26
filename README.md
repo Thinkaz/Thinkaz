@@ -1,10 +1,6 @@
 ## Heyo there!
 
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/989090844411834388/1001611071704027256/igor-artyomenko-tbs-promo11.jpg" width="1200" height="500"/>
-</div>
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Thinkaz&theme=dark" />
 -   :hammer_and_pick: Next / React / JavaScript / Bun / Node / PHP
 -   :pencil2: [VSCode](https://code.visualstudio.com/) / [Vim](https://www.vim.org/)
 
