@@ -9,5 +9,7 @@
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new)!
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 
+---
+
 Done recently: 🎉
   1. Nothing holidays baby 😎
