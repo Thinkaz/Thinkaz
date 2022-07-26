@@ -14,5 +14,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkaz&show_icons=true&theme=dark&custom_title=My+Languages&layout=compact)
 
 Done recently: 🎉
-<br><br>
   1. Nothing holidays baby 😎
