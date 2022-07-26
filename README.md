@@ -12,5 +12,5 @@
 
 ---
 
-Done recently:
-  1. Nothing holidays baby 😎
+⚡ Done recently:
+-   😎 Nothing! Holidays baby!
