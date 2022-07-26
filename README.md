@@ -13,9 +13,9 @@ I am a front-end developer trying to expand my knowledge :computer:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=323330)
 ![Lua](https://img.shields.io/badge/Lua-%2523323330.svg?style=for-the-badge&logo=lua&logoColor=white&color=141484)
 
-![Thinaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkaz&show_icons=true&theme=dark&custom_title=I'm+not+a+girl&layout=compact&langs_count=Deno.js)
+                    ![Thinaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkaz&show_icons=true&theme=dark&custom_title=I'm+not+a+girl&layout=compact&langs_count=Deno.js)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkaz&show_icons=true&theme=dark&custom_title=My+Languages&layout=compact)
+                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkaz&show_icons=true&theme=dark&custom_title=My+Languages&layout=compact)
 
 Feel free to contact me :yum:
 <br><br>
