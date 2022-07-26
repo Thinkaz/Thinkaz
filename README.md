@@ -1,10 +1,8 @@
-## <div align="center" Heyo there! 👋>
+## Heyo there!
 
-
----
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/989090844411834388/1001611071704027256/igor-artyomenko-tbs-promo11.jpg" width="600" height="300"/>
+  <img src="https://cdn.discordapp.com/attachments/989090844411834388/1001611071704027256/igor-artyomenko-tbs-promo11.jpg" width="900" height="300"/>
 </div>
 
 -   :hammer_and_pick: Next / React / JavaScript / Bun / Node / PHP
