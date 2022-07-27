@@ -14,3 +14,21 @@
 
 ⚡ Done recently:
 -   😎 Nothing! Holidays baby!
+
+---
+
+:poop: Custom desktop
+- AMD Ryzen 5 3400G
+- 16Go DDR4 3200Mhz
+- AMD Radeon Vega 11 (iGPU)
+- 2x 144Hz FHD screen
+- 240Go SSD / 2To HDD
+
+<div align="right">
+:laptop: Lenovo Yoga Slim 7 Pro X
+- AMD Ryzen 5 6600HS
+- 16Go LPDDR5 6400Mhz
+- AMD Radeon 660M (iGPU)
+- 3K 120hz screen
+- 512Go M.2
+</div>
