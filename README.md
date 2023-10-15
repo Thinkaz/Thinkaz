@@ -7,7 +7,6 @@
 
 -   🔨 Next / React / JavaScript / Bun / Node / PHP
 -   ✏️ [VSCode](https://code.visualstudio.com/) / [Vim](https://www.vim.org/) / [Electron](https://www.electronjs.org/)
--   🌱 Newborn at ESIEE
 -   😞 If you use light mode, you're insane
 
 ---
